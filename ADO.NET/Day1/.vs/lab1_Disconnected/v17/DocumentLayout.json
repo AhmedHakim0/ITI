@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.net 24-25 R2\\ADO 6-2-2024\\Day_1\\lab1_Disconnected\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52657597-950D-49C2-8872-C12583D4AB0B}|Data_form\\Data_form.csproj|f:\\.net 24-25 r2\\ado 6-2-2024\\day_1\\lab1_disconnected\\data_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52657597-950D-49C2-8872-C12583D4AB0B}|Data_form\\Data_form.csproj|solutionrelative:data_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52657597-950D-49C2-8872-C12583D4AB0B}|Data_form\\Data_form.csproj|F:\\.net 24-25 R2\\ADO 6-2-2024\\Day_1\\lab1_Disconnected\\data_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52657597-950D-49C2-8872-C12583D4AB0B}|Data_form\\Data_form.csproj|solutionrelative:data_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\.net 24-25 R2\\ADO 6-2-2024\\Day_1\\lab1_Disconnected\\Data_form\\Form1.cs",
+              "RelativeDocumentMoniker": "Data_form\\Form1.cs",
+              "ToolTip": "F:\\.net 24-25 R2\\ADO 6-2-2024\\Day_1\\lab1_Disconnected\\Data_form\\Form1.cs",
+              "RelativeToolTip": "Data_form\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:03:04.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\.net 24-25 R2\\ADO 6-2-2024\\Day_1\\lab1_Disconnected\\Data_form\\Form1.cs",
+              "RelativeDocumentMoniker": "Data_form\\Form1.cs",
+              "ToolTip": "F:\\.net 24-25 R2\\ADO 6-2-2024\\Day_1\\lab1_Disconnected\\Data_form\\Form1.cs [Design]",
+              "RelativeToolTip": "Data_form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:49:14.804Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
