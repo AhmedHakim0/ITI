@@ -201,7 +201,7 @@
             // 
             this.button5.BackColor = System.Drawing.Color.Gold;
             this.button5.Font = new System.Drawing.Font("Microsoft Tai Le", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(12, 380);
+            this.button5.Location = new System.Drawing.Point(12, 357);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(83, 29);
             this.button5.TabIndex = 15;
@@ -296,10 +296,10 @@
             // 
             // textBox6
             // 
-            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.Location = new System.Drawing.Point(101, 382);
+            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox6.Location = new System.Drawing.Point(101, 359);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(121, 24);
+            this.textBox6.Size = new System.Drawing.Size(121, 26);
             this.textBox6.TabIndex = 18;
             // 
             // Form1

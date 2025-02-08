@@ -23,6 +23,10 @@ namespace Data_form
             sqlDataAdapter1.Fill(dataSet11);
             sqlConnection1.Close();
             dataGridView1.DataSource = dataSet11.Tables[0];
+            DataView dview = dataSet11.Tables[0].DefaultView;
+            dview.RowFilter = "";
+            dataGridView1.DataSource = dview;
+
         }
 
         private void label3_Click(object sender, EventArgs e)
