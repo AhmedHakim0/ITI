@@ -1,0 +1,3 @@
+{
+    "con1": "server=.; database=Company ; integrated Security=true; trustservercertificate=true;"
+}
